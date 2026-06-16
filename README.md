@@ -141,4 +141,4 @@ Seq_E   ATGCCGTAACGGATTAGCT     (19 bases, 1 diferença de Seq_A)
 
 ## AUTOR
 INICIADO pelo Professor ALEX MARINO. 
-Programação à partir de  CONTARBASES e finalizado em DISTANCIA HAMMING por FABRICIO
+Programação à partir de FUNÇÕES/CONTARBASES e finalizado em DISTANCIA HAMMING por FABRICIO
