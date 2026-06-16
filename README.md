@@ -140,8 +140,3 @@ Seq_E   ATGCCGTAACGGATTAGCT     (19 bases, 1 diferença de Seq_A)
 
 ---
 
-## ❓ Dúvidas?
-
-Procurem o Auxiliar Docente André Mendes.
-
-**Bom trabalho!** 🧬
